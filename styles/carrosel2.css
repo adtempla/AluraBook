@@ -1,0 +1,17 @@
+.carrossel__segundo {
+    color: var(--laranja);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+
+}
+
+.swiper-slide2 {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+}

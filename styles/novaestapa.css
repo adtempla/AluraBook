@@ -1,0 +1,43 @@
+.imagem_mulher {
+    width: 161px;
+    height: 166px;
+    flex-shrink: 0;
+
+}
+
+.estrelas {
+    padding: 1em;
+    background-color: var(--branco);
+    margin: 1em
+}
+
+
+.sacolas {
+    display: flex;
+    align-items: center;
+}
+
+.estrela__titulo {
+    color: var(--laranja);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.estrela__juliana {
+    color: var(--azul);
+    font-weight: 700;
+    font-size: 20px;
+    font-family: var(--fonte-principal);
+    margin: 1em 0;
+}
+
+.estrela__juju {
+    margin: 1em 0;
+    width: 48vw;
+}
+
+.escritora__mulher {
+    align-items: center;
+}
